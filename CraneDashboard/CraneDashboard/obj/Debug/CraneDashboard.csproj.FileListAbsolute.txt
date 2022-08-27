@@ -1,0 +1,235 @@
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmDashboard.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmDashboard.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\_Software backup\2022-04-08\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\graupner\Desktop\project-2\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\obj\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-27\CraneDashboard 2022-05-27\CraneDashboard\bin\Debug\clipper_library.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\bin\Debug\clipper_library.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\CraneDashboard\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe.config
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\bin\Debug\CraneDashboard.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Form1.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmAnalytics.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmCalender.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmDataEntry.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmModules.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSettings.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmSiteLayout.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.frmWelcome.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.Properties.Resources.resources
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.GenerateResource.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.csproj.CopyComplete
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.exe
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\CraneDashboard\obj\Debug\CraneDashboard.pdb

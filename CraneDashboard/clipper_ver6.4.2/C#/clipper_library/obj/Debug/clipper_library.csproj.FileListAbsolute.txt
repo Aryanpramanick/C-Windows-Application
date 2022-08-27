@@ -1,0 +1,72 @@
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-07-28\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-07-28\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-07-28\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-07-28\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-07-28\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-07-28\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-04\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-04\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-04\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-04\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-04\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-04\CraneDashboard-2022-08-02\CraneDashboard-2022-07-29\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-04\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-04\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-04\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-04\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-04\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-04\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-15-20220815T160111Z-001\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-15-20220815T160111Z-001\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-15-20220815T160111Z-001\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-15-20220815T160111Z-001\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-15-20220815T160111Z-001\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-15-20220815T160111Z-001\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-15-01\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-15-01\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-15-01\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-15-01\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-15-01\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-15-01\CraneDashboard-2022-08-15\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-18\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-18\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-18\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-18\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-18\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-18\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-18.V1\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-18.V1\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-18.V1\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-18.V1\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-18.V1\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\boutouha\Desktop\CraneDashboard-2022-08-18.V1\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22.final\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22.final\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\bin\Debug\clipper_library.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22.final\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22.final\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22.final\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.dll
+C:\Users\Aryan\Desktop\CraneDashboard-2022-08-22.final\CraneDashboard\clipper_ver6.4.2\C#\clipper_library\obj\Debug\clipper_library.pdb

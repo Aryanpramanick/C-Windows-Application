@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CraneDashboard</RootNamespace>
+    <AssemblyName>CraneDashboard</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.2.2.10\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.2.2.10\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addNewDimensions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addNewDimensions.Designer.cs">
+      <DependentUpon>addNewDimensions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnalytics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnalytics.Designer.cs">
+      <DependentUpon>frmAnalytics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCalender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCalender.Designer.cs">
+      <DependentUpon>frmCalender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDataEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDataEntry.Designer.cs">
+      <DependentUpon>frmDataEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModules.Designer.cs">
+      <DependentUpon>frmModules.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettings.Designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSiteLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSiteLayout.Designer.cs">
+      <DependentUpon>frmSiteLayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWelcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWelcome.Designer.cs">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="addNewDimensions.resx">
+      <DependentUpon>addNewDimensions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnalytics.resx">
+      <DependentUpon>frmAnalytics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCalender.resx">
+      <DependentUpon>frmCalender.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDataEntry.resx">
+      <DependentUpon>frmDataEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModules.resx">
+      <DependentUpon>frmModules.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSiteLayout.resx">
+      <DependentUpon>frmSiteLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWelcome.resx">
+      <DependentUpon>frmWelcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ncsg-logo-header.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glossy-home-icon-md %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kindpng_2684156-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calander 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Site layout 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Test 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\module-icon-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modular construction Site layout.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kindpng_2684156-3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calander 31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calander.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{de237217-44f4-45e9-807c-552187bb43f0}</Project>
+      <Name>ClassLibrary1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\clipper_ver6.4.2\C#\clipper_library\clipper_library.csproj">
+      <Project>{9b062971-a88e-4a3d-b3c9-12b78d15fa66}</Project>
+      <Name>clipper_library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SFSL.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobelco CK1000-III Crawler Crane - Zoomed Out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobelco CK1000-III.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\170 tower-crane - back.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LS98_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LS98_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SWSL.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manitowoc 18000 No.79A fixed-jib.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data entry logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data entry logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-data-entry-clerk-paper-service-computer-services-miscellaneous-blue-company 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-data-entry-clerk-paper-service-computer-services-miscellaneous-blue-company 4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Data entry logo 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart1148517.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\clip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imag2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im2%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imm1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imm2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-removebg-preview%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config-removebg-preview%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selection-removebg-preview%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entry-removebg-preview%282%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selection-removebg-preview%282%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selection-removebg-preview%282%29%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\construction-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\construction-removebg-preview%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\config-removebg-preview%282%29%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im1-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\im16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imoutput.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obs1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_2_-removebg-preview.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

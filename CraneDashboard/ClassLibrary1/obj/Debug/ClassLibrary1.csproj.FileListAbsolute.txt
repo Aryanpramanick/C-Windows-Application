@@ -1,0 +1,48 @@
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneSoftware\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\graupner\Documents\UofA work NCSG etc\C_Sharp Crane Software\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\graupner\Desktop\project-Martin\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\project 2\project\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\graupner\Desktop\project-Demo\CraneDashboard 2022-05-25\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\CraneDashboard 2022-05-26-20220527T151455Z-001\CraneDashboard 2022-05-26\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Aryan\Desktop\CraneDashboard-20220627T185446Z-001\CraneDashboard\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

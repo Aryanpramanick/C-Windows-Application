@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraneDashboard", "CraneDashboard\CraneDashboard.csproj", "{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{DE237217-44F4-45E9-807C-552187BB43F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clipper_library", "clipper_ver6.4.2\C#\clipper_library\clipper_library.csproj", "{9B062971-A88E-4A3D-B3C9-12B78D15FA66}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "craneimages", "craneimages", "{3D1D04AC-7648-49D4-94A9-8E36654AB3AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Debug|x64.ActiveCfg = Debug|x64
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Debug|x64.Build.0 = Debug|x64
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Release|x64.ActiveCfg = Release|x64
+		{9CB7019B-3F05-4350-A1B1-FFBC2E1B75FC}.Release|x64.Build.0 = Release|x64
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Debug|x64.ActiveCfg = Debug|x64
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Debug|x64.Build.0 = Debug|x64
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Release|x64.ActiveCfg = Release|x64
+		{DE237217-44F4-45E9-807C-552187BB43F0}.Release|x64.Build.0 = Release|x64
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Debug|x64.Build.0 = Debug|Any CPU
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Release|x64.ActiveCfg = Release|Any CPU
+		{9B062971-A88E-4A3D-B3C9-12B78D15FA66}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9860474-F145-4130-B171-E8FB7903D35A}
+	EndGlobalSection
+EndGlobal
